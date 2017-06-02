@@ -5,7 +5,7 @@ node_js:
  
 build:
   ci:   
-    - node --version
+    - node --version 
     
   pre_ci_boot:
     image_name: drydock/u14
